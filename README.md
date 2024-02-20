@@ -12,10 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🎯
-![](https://www.islamawakened.com/quran/20/st83.htm)
+### 🤲🎯
+20:55  ۞  
+"From it We created you, and in it We will return you, and from it We will bring you out, time after time" ( 20:55  ۞ )
 
----
-[![](https://visitcount.itsvg.in/api?id=hamzaelmi068&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[Source of Ayaat](https://your-source-website.com)
 <!-- done-->
