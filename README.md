@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=great-gatsby&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzaelmi068&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🤲🎯
