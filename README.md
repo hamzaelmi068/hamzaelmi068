@@ -14,9 +14,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamzaelmi068&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-<!-- All praise to the almighty ٱللَّٰه (swt) !-->
 ### 🤲🎯
 20:55  ۞  
 "From it We created you, and in it We will return you, and from it We will bring you out, time after time" ( 20:55  ۞ )
-[Source of Ayaat](https://your-source-website.com)
+[Source of Ayaat](https://your-source-website.com) <!-- All praise to the almighty ٱللَّٰه (swt) !-->
 <!-- done..-->
