@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently a second year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to predict football match winners using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Cyber Security.<br>🌱 I’m currently learning JavaScript, Java, Intermediate concepts with C, and hosting services such as Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for the stock market, as well as the sports analytics industry
+🚀 I'm currently a second year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to predict football match winners using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Cyber Security.<br>🌱 I’m currently learning JavaScript, Java, Intermediate concepts with C, and hosting services such as Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for sports analytics, as well as the stock market.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hamza-mohammed-e-b9827a231) 
