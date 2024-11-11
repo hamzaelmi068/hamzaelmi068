@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently a second year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to predict football match winners using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning OOP within Java, Data Structures within C, R, Assembly, and hosting services such as Vercel, Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
+🚀 I'm currently a third year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to predict football match winners using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning OOP within Java, Data Structures within C, R, Assembly, and hosting services such as Vercel, Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hamza-mohammed-e-b9827a231) 
