@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
