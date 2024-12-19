@@ -13,9 +13,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-%233FB914.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamzaelmi068&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
