@@ -16,7 +16,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 </div>
 
 ---
