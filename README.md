@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1006&width=529&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza;Current+third+year+University+Student)](https://git.io/typing-svg)
 
-🚀 I'm currently a third year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to predict football match winners using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning OOP within Java, Data Structures within C, R, Assembly, and hosting services such as Vercel, Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
+🚀 I'm currently a third year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to analyze the Stool Health of indivisuals who prioritize their health, using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning Algorithms within C, Software Systems Development and Integration, UI Design, and hosting services such as Vercel, Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-elmi-b9827a231/) 
