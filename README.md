@@ -1,28 +1,40 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1006&width=529&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza;Current+third+year+University+Student)](https://git.io/typing-svg)
 
-🚀 I'm currently a third year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to analyze the Stool Health of indivisuals who prioritize their health, using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning Algorithms within C, Software Systems Development and Integration, UI Design, and hosting services such as Vercel, Azure and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
+🚀 I'm currently a third year Computer Science student seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to analyze the Stool Health of individuals who prioritize their health, using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning Algorithms within C, Software Systems Development and Integration, UI Design, and hosting services such as Vercel, Azure, and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Mining, Sports Analytics, as well as the Stock Market.
 
-## 🌐 Socials:
+### **🌎 Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-elmi-b9827a231/) 
-[![Gmail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaelmi067@gmail.com)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaelmi067@gmail.com)  
+🌐 **Personal Website**: [hamza-elmi.vercel.app](https://hamza-elmi.vercel.app/)
 
 # 💻 My Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-%233FB914.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# 📊 GitHub Stats:
+### Frameworks/Libraries:
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Developer Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![ClickUp](https://img.shields.io/badge/clickup-%23FF61F6.svg?style=for-the-badge&logo=clickup&logoColor=white)
+
+### **📊 GitHub Stats**
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false" />
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 </div>
 
+<!--
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelmi068&theme=algolia&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+-->
 ---
-[![](https://visitcount.itsvg.in/api?id=hamzaelmi068&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-### 🤲🎯
-20:55  ۞  
-"From it We created you, and in it We will return you, and from it We will bring you out, time after time" ( 20:55  ۞ )
-[Source of Ayaat](https://your-source-website.com) <!-- All praise to the almighty ٱللَّٰه (swt) !-->
-<!-- done..-->
+
+### **💡 Reflection**
+> _"From it We created you, and in it We will return you, and from it We will bring you out, time after time."_ (20:55 ۞)  
+[Source](https://your-source-website.com)  
+
+<!-- All praise to the almighty ٱللَّٰه (swt)! -->
+
+
