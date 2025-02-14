@@ -33,8 +33,6 @@
 
 ### **💡 Reflection**
 > _"From it We created you, and in it We will return you, and from it We will bring you out, time after time."_ (20:55 ۞)  
-[Source](https://your-source-website.com)  
-
 <!-- All praise to the almighty ٱللَّٰه (swt)! -->
 
 
