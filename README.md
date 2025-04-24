@@ -1,7 +1,15 @@
-# About Me:
+ # About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1006&width=529&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza;Current+University+Student+at+UoG)](https://git.io/typing-svg)
 
-🚀 Current Computer Science student at UoG seeking new opportunities to strengthen my skills<br>🔭 I’m currently working on a project to analyze the Stool Health of individuals who prioritize their health, using machine learning.<br>👯 I’m looking to collaborate on new opportunities in Machine Learning, Data Analytics, and Web Development.<br>🌱 I’m currently learning Algorithms within C, Software Systems Development and Integration, UI Design, OS, and hosting services such as Vercel, Azure, and Firebase.<br>⚡ Fun fact - I've grown a fascination for Data Analytics, as well as the Stock Market.
+🎓 I'm a Computer Science student at the University of Guelph, passionate about turning meaningful ideas into working products.  
+💡 Currently building **LughatulQuran** — a Quranic Arabic learning web app that blends AI + spaced repetition (Anki-style) for smarter memorization.  
+🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, and AI.  
+📚 Learning about Operating Systems, Software Architecture, Deployment with Vercel/Firebase, and better UI/UX every day.  
+📊 I also explore the **stock market**, **chess**, and **fitness** in my downtime.  
+🧠 Long-term goal? Build tools that actually help people — thoughtfully and intentionally.
+
+> Let’s connect & collaborate on projects that matter.
+
 
 ### **🌎 Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-elmi-b9827a231/) 
