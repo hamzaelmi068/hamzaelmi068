@@ -2,11 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1006&width=529&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza;Current+University+Student+at+UoG)](https://git.io/typing-svg)
 
 🎓 I'm a Computer Science student at the University of Guelph, passionate about turning meaningful ideas into working products.  
-💡 Currently building LughatulQuran — a Quranic Arabic learning web app that blends AI + spaced repetition (Anki-style) for smarter memorization.  
 🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, and AI.  
-📚 Learning about Operating Systems, Software Architecture, Deployment with Vercel/Firebase, and better UI/UX every day.  
+📚 Learning about Operating Systems, Software Architecture, and Deployment with Vercel/Firebase.
 📊 I also explore the **stock market**, **chess**, and **fitness** in my downtime.  
-🧠 Long-term goal? Build tools that actually help people — thoughtfully and intentionally.
+🧠 Long-term goal? Build tools that actually help people
 
 > Let’s connect & collaborate on projects that matter.
 
