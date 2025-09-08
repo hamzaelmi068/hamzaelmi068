@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5020&pause=1006&width=529&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamza;Current+University+Student+at+UoG)](https://git.io/typing-svg)
 
 🎓 I'm a Computer Science student at the University of Guelph, passionate about turning meaningful ideas into working products.  
-🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, and AI.  
-📚 Learning about Operating Systems, Data Science, Software Architecture, and Deployment with Vercel/Firebase.
+🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, UX Design and AI.  
+📚 Currently enhancing skills in Operating Systems, Data Science, Software Architecture, System Analysis & Design, and deployment using Vercel and Firebase.
 📊 I also explore the **stock market**, **chess**, and **fitness** in my downtime.  
-🧠 Long-term goal? Build tools that actually help people
+🧠 Long-term goal: Build tools and software that genuinely help people.
 
 > Let’s connect & collaborate on projects that matter.
 
