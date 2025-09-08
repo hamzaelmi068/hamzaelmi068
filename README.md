@@ -3,7 +3,7 @@
 
 🎓 I'm a Computer Science student at the University of Guelph, passionate about turning meaningful ideas into working products.  
 🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, and AI.  
-📚 Learning about Operating Systems, Software Architecture, and Deployment with Vercel/Firebase.
+📚 Learning about Operating Systems, Data Science, Software Architecture, and Deployment with Vercel/Firebase.
 📊 I also explore the **stock market**, **chess**, and **fitness** in my downtime.  
 🧠 Long-term goal? Build tools that actually help people
 
