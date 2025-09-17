@@ -25,10 +25,10 @@
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![ClickUp](https://img.shields.io/badge/clickup-%23FF61F6.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
-### **📊 GitHub Stats**
+<!--### **📊 GitHub Stats**
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzaelmi068&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" />
-</div>
+</div>  -->
 
 <!--
 <div align="center">
