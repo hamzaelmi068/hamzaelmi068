@@ -6,9 +6,6 @@
 📊 I also explore the stock market, chess, and fitness in my downtime.  
 🧠 Long-term goal: Build tools and software that genuinely help people.
 
-> Let’s connect & collaborate on projects that matter.
-
-
 ### **🌎 Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-elmi-b9827a231/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaelmi067@gmail.com)  
