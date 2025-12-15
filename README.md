@@ -3,8 +3,7 @@
 
 🎓 I'm a Computer Science student at the University of Guelph, passionate about turning meaningful ideas into working products.  
 🌐 I love working on projects that intersect **tech + real-world impact**, especially in Web Dev, Data Analytics, UX Design and AI.  
-📚 Currently enhancing skills in Operating Systems, Data Science, Software Architecture, System Analysis & Design, and deployment using Vercel and Azure.    
-📊 I also explore the **stock market**, **chess**, and **fitness** in my downtime.  
+📊 I also explore the stock market, chess, and fitness in my downtime.  
 🧠 Long-term goal: Build tools and software that genuinely help people.
 
 > Let’s connect & collaborate on projects that matter.
